@@ -1,2 +1,2 @@
 # hackattic
-Puzzles from hackattic.com
+Solutions for puzzles from hackattic.com
