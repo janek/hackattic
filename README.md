@@ -1,2 +1,1 @@
-# hackattic
-Solutions for puzzles from hackattic.com
+Solutions to puzzles from [hackattic](https://hackattic.com)
